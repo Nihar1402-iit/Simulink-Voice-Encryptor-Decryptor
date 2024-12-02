@@ -1,6 +1,6 @@
 # Simulink Voice Encryption App
 
-This project demonstrates a Simulink-based Android/iOS application for secure voice message transmission between two mobile phones over Bluetooth. The app implements two encryption methods to scramble or obscure audio signals on Phone A, transmits the encrypted signal, and decrypts and plays it on Phone B.
+This project demonstrates a Simulink-based Android/iOS application for secure voice message transmission between two mobile phones over UDP using simulink. The app implements two encryption methods to scramble or obscure audio signals on Phone A, transmits the encrypted signal, and decrypts and plays it on Phone B.
 
 ---
 
