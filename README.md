@@ -22,7 +22,7 @@ This project demonstrates a Simulink-based Android/iOS application for secure vo
 ## Demonstration Video
 Watch the video demonstrating the functionality of the application:
 
-[![Simulink Voice Encryption App]((https://github.com/user-attachments/assets/ecfa4078-7b2a-44c9-9597-8f84842c9560))(https://drive.google.com/file/d/15KiptKElkYoHw33UZ_5sMiU2KeJ5KjNq/view?usp=sharing)
+[![Simulink Voice Encryption App](https://github.com/user-attachments/assets/6b88f9b5-3da6-4508-826c-17e033e8352d)](https://drive.google.com/file/d/15KiptKElkYoHw33UZ_5sMiU2KeJ5KjNq/view?usp=sharing)
 
 ---
 
